@@ -1,0 +1,6 @@
+C:\Users\ABHISHEK\source\repos\Application Form\MyappModels\bin\Release\MyappModels.dll
+C:\Users\ABHISHEK\source\repos\Application Form\MyappModels\bin\Release\MyappModels.pdb
+C:\Users\ABHISHEK\source\repos\Application Form\MyappModels\obj\Release\MyappModels.csprojAssemblyReference.cache
+C:\Users\ABHISHEK\source\repos\Application Form\MyappModels\obj\Release\MyappModels.csproj.CoreCompileInputs.cache
+C:\Users\ABHISHEK\source\repos\Application Form\MyappModels\obj\Release\MyappModels.dll
+C:\Users\ABHISHEK\source\repos\Application Form\MyappModels\obj\Release\MyappModels.pdb

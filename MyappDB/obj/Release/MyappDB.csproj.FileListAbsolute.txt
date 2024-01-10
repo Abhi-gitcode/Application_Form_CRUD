@@ -1,0 +1,14 @@
+C:\Users\ABHISHEK\source\repos\Application Form\MyappDB\bin\Release\MyappDB.dll.config
+C:\Users\ABHISHEK\source\repos\Application Form\MyappDB\bin\Release\MyappDB.dll
+C:\Users\ABHISHEK\source\repos\Application Form\MyappDB\bin\Release\MyappDB.pdb
+C:\Users\ABHISHEK\source\repos\Application Form\MyappDB\bin\Release\EntityFramework.dll
+C:\Users\ABHISHEK\source\repos\Application Form\MyappDB\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ABHISHEK\source\repos\Application Form\MyappDB\bin\Release\MyappModels.dll
+C:\Users\ABHISHEK\source\repos\Application Form\MyappDB\bin\Release\MyappModels.pdb
+C:\Users\ABHISHEK\source\repos\Application Form\MyappDB\bin\Release\EntityFramework.xml
+C:\Users\ABHISHEK\source\repos\Application Form\MyappDB\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ABHISHEK\source\repos\Application Form\MyappDB\obj\Release\MyappDB.csprojAssemblyReference.cache
+C:\Users\ABHISHEK\source\repos\Application Form\MyappDB\obj\Release\MyappDB.csproj.CoreCompileInputs.cache
+C:\Users\ABHISHEK\source\repos\Application Form\MyappDB\obj\Release\MyappDB.csproj.CopyComplete
+C:\Users\ABHISHEK\source\repos\Application Form\MyappDB\obj\Release\MyappDB.dll
+C:\Users\ABHISHEK\source\repos\Application Form\MyappDB\obj\Release\MyappDB.pdb
